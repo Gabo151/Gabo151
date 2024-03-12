@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Soy Gabriel Vergara
+
+
+###  -🎓 Estudiando para mejorar mis habilidades en desarrollo de software
+###  -💻 Interesado en aprender nuevos lenguajes de programación y tecnologias
+###  -📚 Buscando oportunidades para aprender y crecer
 
 <!--
 **Gabo151/Gabo151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
