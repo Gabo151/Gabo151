@@ -1,4 +1,4 @@
-### Hi there 👋 Soy Gabriel Vergara
+### Hola soy 👋 Soy Gabriel Vergara
 
 
 ###  -🎓 Estudiando para mejorar mis habilidades en desarrollo de software
